@@ -38,6 +38,10 @@ a,a:visited,a:hover {
 	text-decoration:none;
 	padding:3px;
 }
+.nav-link:hover {
+	color:#000000;
+	text-decoration:none;
+}
 .header-logo {
 	width: 250px;
 	height: 250px;
