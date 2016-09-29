@@ -18,3 +18,7 @@ header {
 	text-decoration:none;
 	padding:3px;
 }
+.header-logo {
+	width: 50%;
+	height: 50%;
+}
