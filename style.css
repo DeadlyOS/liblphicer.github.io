@@ -11,6 +11,9 @@ header {
 article {
 	max-width:900;
 }
+audio {
+	width:100%;
+}
 .nav-menu {
 	position:static;
 	background:#abd5ec;
