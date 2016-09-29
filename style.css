@@ -12,6 +12,8 @@ header {
 section {
 	padding-left:20%;
 	padding-right:20%;
+	padding-bottom:5%;
+	padding-top:5%;
 }
 article {
 	max-width:900px;
