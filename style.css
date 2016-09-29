@@ -8,4 +8,10 @@ body {
 .nav-menu {
 	position:static;
 	background:#abd5ec;
+	text-align:center;
+}
+.nav-link,.nav-link:visited {
+	color:#ffffff;
+	text-decoration:none;
+	padding:3px;
 }
