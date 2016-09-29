@@ -8,6 +8,9 @@ body {
 header {
 	text-align:center;
 }
+article {
+	max-width:900;
+}
 .nav-menu {
 	position:static;
 	background:#abd5ec;
@@ -21,4 +24,7 @@ header {
 .header-logo {
 	width: 250px;
 	height: 250px;
+}
+#about,#donate {
+	background:#abd5ec;
 }
