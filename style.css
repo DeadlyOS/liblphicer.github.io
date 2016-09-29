@@ -47,7 +47,8 @@ a,a:visited,a:hover {
 	height: 250px;
 }
 .project-name {
-	font-size:18px
+	font-size:18px;
+	font-weight:bold;
 }
 #about,#donate {
 	background:#abd5ec;
