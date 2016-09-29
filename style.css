@@ -1,6 +1,7 @@
 body {
 	background:#ffffff;
 	font-family:verdana;
+	font-size:14px;
 	color:#555555;
 	padding:0;
 	margin:0;
@@ -17,6 +18,9 @@ article {
 }
 audio {
 	width:100%;
+}
+h1 {
+	font-size:22px;
 }
 a,a:visited,a:hover {
 	color:#000000;
@@ -35,6 +39,9 @@ a,a:visited,a:hover {
 .header-logo {
 	width: 250px;
 	height: 250px;
+}
+.project-name {
+	font-size:18px
 }
 #about,#donate {
 	background:#abd5ec;
