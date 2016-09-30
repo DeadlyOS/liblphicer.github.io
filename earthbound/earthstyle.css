@@ -10,6 +10,7 @@ header {
 }
 section {
 	text-align:left;
+	max-width:900px;
 }
 .header-logo {
 	height:250px;
