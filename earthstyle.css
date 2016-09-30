@@ -3,12 +3,13 @@ body {
 	padding:0;
 	margin:0;
 	font-family: 'Press Start 2P';
+	color:#ffffff;
 }
 header {
 	text-align:center;
 }
 section {
-	text-align:center;
+	text-align:left;
 }
 .header-logo {
 	height:250px;
