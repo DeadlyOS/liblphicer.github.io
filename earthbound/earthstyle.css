@@ -5,6 +5,13 @@ body {
 	font-family: 'Press Start 2P';
 	color:#ffffff;
 }
+a,a:visited {
+	color:#ffff00;
+	text-decoration:none;
+}
+a:hover {
+	color:#ff00ff;
+}
 header,section {
 	text-align:center;
 }
