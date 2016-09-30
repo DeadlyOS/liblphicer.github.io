@@ -9,9 +9,11 @@ header {
 	text-align:center;
 }
 section {
+	text-align:center;
+	max-width:900px;
+}
+article {
 	text-align:left;
-	padding-left:20%;
-	padding-right:20%;
 }
 .header-logo {
 	height:250px;
