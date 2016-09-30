@@ -2,4 +2,12 @@ body {
 	background:#000000;
 	padding:0;
 	margin:0;
+	font-family: 'Press Start 2P';
+}
+header {
+	text-align:center;
+}
+.header-logo {
+	height:250px;
+	width:575px;
 }
